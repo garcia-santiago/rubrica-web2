@@ -2,42 +2,42 @@
   {
     "id": 18,
     "name": "Antenna Morty",
-    "status": "Alive",
+    "status": "Vivo",
     "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
     "desc": "Human with antennae from Citadel of Ricks"
   },
   {
     "id": 69,
     "name": "Commander Rick",
-    "status": "Dead",
+    "status": "Muerto",
     "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg",
     "desc": "Rick from Citadel of Ricks"
     },
     {
       "id": 17,
       "name": "Annie",
-      "status": "Alive",
+      "status": "Vivo",
       "desc": "Human from Anatomy Park",
       "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
     },
     {
       "id": 25,
       "name": "Armothy",
-      "status": "Dead",
+      "status": "Muerto",
       "desc": "Self-aware arm from Post-Apocalyptic Earth",
       "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
     },
     {
       "id": 26,
       "name": "Arthricia",
-      "status": "Alive",
+      "status": "Vivo",
       "desc": "Cat-Person from Purge Planet",
       "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
     },
     {      
       "id": 28,
       "name": "Attila Starwar",
-      "status": "Alive",
+      "status": "Vivo",
       "desc": "Human from Interdimensional Cable",
       "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
     }

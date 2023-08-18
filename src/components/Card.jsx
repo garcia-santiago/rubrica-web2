@@ -14,7 +14,7 @@ function Card(props) {
                 </p>
             </div>
             { estado ?
-                (<p>{props.character.status} {props.character.status == 'Alive' ? '✅' : '💀'}</p>):
+                (<p>{props.character.status} {props.character.status == 'Vivo' ? '✅' : '💀'}</p>):
                 ('')
             }
             <div className="mb-2">
