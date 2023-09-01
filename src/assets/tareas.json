@@ -1,44 +1,26 @@
 [
   {
-    "id": 18,
-    "name": "Antenna Morty",
-    "status": "Vivo",
-    "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
-    "desc": "Human with antennae from Citadel of Ricks"
+    "id": 1,
+    "name": "Minciencias",
+    "desc": "---",
+    "image": "https://www.minciencias.gov.co/sites/default/files/files/logo_min_ciencias_0.png"
   },
   {
-    "id": 69,
-    "name": "Commander Rick",
-    "status": "Muerto",
-    "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg",
-    "desc": "Rick from Citadel of Ricks"
-    },
-    {
-      "id": 17,
-      "name": "Annie",
-      "status": "Vivo",
-      "desc": "Human from Anatomy Park",
-      "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
-    },
-    {
-      "id": 25,
-      "name": "Armothy",
-      "status": "Muerto",
-      "desc": "Self-aware arm from Post-Apocalyptic Earth",
-      "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
-    },
-    {
-      "id": 26,
-      "name": "Arthricia",
-      "status": "Vivo",
-      "desc": "Cat-Person from Purge Planet",
-      "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
-    },
-    {      
-      "id": 28,
-      "name": "Attila Starwar",
-      "status": "Vivo",
-      "desc": "Human from Interdimensional Cable",
-      "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
-    }
+    "id": 2,
+    "name": "Universidad de los Andes",
+    "desc": "---",
+    "image": "https://programas.uniandes.edu.co/sites/g/files/hunrwv151/files/2022-12/Uniandes.png"
+  },
+  {
+    "id": 3,
+    "name": "Dane",
+    "desc": "Self-aware arm from Post-Apocalyptic Earth",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombia_Dane_logo_%282%29.svg/2560px-Colombia_Dane_logo_%282%29.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Universidad del Sinú",
+    "desc": "---",
+    "image": "https://universidadesvirtuales.co/logos/original/logo-universidad-del-sinu-elias-bechara-zainum.png"
+  }
 ]

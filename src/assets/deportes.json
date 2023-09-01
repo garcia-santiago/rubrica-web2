@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "Futbol",
+        "desc": "--",
+        "img": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/SVD7O6B47FP6NBTPCMERLNGVPA.jpg",
+        "categoria": "Equipos",
+        "nombre_equipo": "Real Madrid FC",
+        "url_equipo": "https://www.realmadrid.com/"
+    },
+    {
+        "id": 2,
+        "nombre": "Baseball",
+        "desc": "--",
+        "img": "https://media.npr.org/assets/img/2022/10/04/gettyimages-1243732454-27679070c5e9b8ec7e910543f37d86c13d6d3063-s1100-c50.jpg",
+        "categoria": "Equipos",
+        "nombre_equipo": "New York Yankees",
+        "url_equipo": "https://www.mlb.com/yankees"
+    },
+    {
+        "id": 3,
+        "nombre": "Basketball",
+        "desc": "--",
+        "img": "https://img.bleacherreport.net/img/images/photos/003/635/581/hi-res-95277666e2f5c16d6b7122529a8daf29_crop_north.jpg?1477631633&w=3072&h=2048",
+        "categoria": "Equipos",
+        "nombre_equipo": "Miami Heat",
+        "url_equipo": "https://www.nba.com/heat"
+    },
+    {
+        "id": 4,
+        "nombre": "Formula 1",
+        "desc": "--",
+        "img": "https://www.motorsportmagazine.com/wp-content/uploads/2023/05/Max-Veerstappen-climbs-hill-at-Beau-Rivage-in-2023-Monaco-Grand-Prix-800x450.jpg",
+        "categoria": "Motor",
+        "nombre_equipo": "Re Bull Racing",
+        "url_equipo": "https://www.redbullracing.com/"
+    },
+    {
+        "id": 5,
+        "nombre": "Cross-Country Rallying",
+        "desc": "--",
+        "img": "https://www.topgear.com/sites/default/files/2023/01/A230172_medium_0.jpg",
+        "categoria": "Motor",
+        "nombre_equipo": "Volkswagen ",
+        "url_equipo": "https://es.wikipedia.org/wiki/Volkswagen_Motorsport"
+    },
+    {
+        "id": 6,
+        "nombre": "Karting",
+        "desc": "--",
+        "img": "https://mcusercontent.com/0dcca18649fab10b094990a74/images/f247885e-1eed-4443-6bca-d4e55a750842.jpg",
+        "categoria": "Motor",
+        "nombre_equipo": "Fernando Alonso Karting Team",
+        "url_equipo": "https://www.instagram.com/fa_alonsokart/"
+    },
+    {
+        "id": 7,
+        "nombre": "Catán",
+        "desc": "--",
+        "img": "https://terminalcitycon.ca/wp-content/uploads/2020/12/IMG_1953-e1530295066827-scaled.jpg",
+        "categoria": "Mesa",
+        "nombre_equipo": "Gustavo Uría",
+        "url_equipo": "https://larepublica.pe/deportes/2022/09/07/clasificatorios-de-catan-2022-peruano-logra-clasificar-al-mundial-de-catan-gustavo-uria-como-cuando-y-donde-ver-atmp"
+    },
+    {
+        "id": 8,
+        "nombre": "Poker",
+        "desc": "--",
+        "img": "https://pnimg.net/w/articles/4/606/5f3b5589ab.jpeg",
+        "categoria": "Poker",
+        "nombre_equipo": "Daniel Negreanu",
+        "url_equipo": "https://danielnegreanu.com/"
+    },
+    {
+        "id": 9,
+        "nombre": "Ajedrez",
+        "desc": "--",
+        "img": "https://es.chessbase.com/Portals/all/thumbs/099/99614%20(4).jpeg",
+        "categoria": "Mesa",
+        "nombre_equipo": "Yan Nepómniashchi",
+        "url_equipo": "https://es.wikipedia.org/wiki/Yan_Nep%C3%B3mniashchi"
+    }
+]
