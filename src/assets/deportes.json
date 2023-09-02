@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nombre": "Futbol",
-        "desc": "--",
+        "desc": "Fútbol​ (del inglés británico football) es un deporte de equipo jugado entre dos conjuntos de once jugadores cada uno, mientras los árbitros se ocupan de que las normas se cumplan correctamente. Es, ampliamente, considerado el deporte más popular del mundo, pues lo practican unas 270 millones de personas",
         "img": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/SVD7O6B47FP6NBTPCMERLNGVPA.jpg",
         "categoria": "Equipos",
         "nombre_equipo": "Real Madrid FC",
@@ -10,8 +10,8 @@
     },
     {
         "id": 2,
-        "nombre": "Baseball",
-        "desc": "--",
+        "nombre": "Béisbol",
+        "desc": "El béisbol (del inglés baseball; de base, y ball, 'pelota'), también llamado baseball o juego de pelota es un deporte de equipo jugado por dos equipos de nueve jugadores cada uno.",
         "img": "https://media.npr.org/assets/img/2022/10/04/gettyimages-1243732454-27679070c5e9b8ec7e910543f37d86c13d6d3063-s1100-c50.jpg",
         "categoria": "Equipos",
         "nombre_equipo": "New York Yankees",
@@ -19,8 +19,8 @@
     },
     {
         "id": 3,
-        "nombre": "Basketball",
-        "desc": "--",
+        "nombre": "Baloncesto",
+        "desc": "El baloncesto (del inglés basketball; de basket, 'canasta', y ball, 'pelota'), también conocido como básquetbol, basquetbol o simplemente básquet, es un deporte de equipo, jugado entre dos conjuntos de cinco jugadores cada uno en cuatro períodos de cuartos de diez minutos cada uno​ ―doce minutos cada cuarto en la NBA―. El objetivo del equipo es anotar puntos introduciendo un balón por la canasta, un aro a 3,05 metros sobre la superficie de la pista de juego del que cuelga una red. La puntuación por cada canasta o cesta es de dos o tres puntos, dependiendo de la posición desde la que se efectúa el tiro a canasta, o de uno, si se trata de un tiro libre por una falta de un jugador contrario. El equipo ganador es el que obtiene el mayor número de puntos.",
         "img": "https://img.bleacherreport.net/img/images/photos/003/635/581/hi-res-95277666e2f5c16d6b7122529a8daf29_crop_north.jpg?1477631633&w=3072&h=2048",
         "categoria": "Equipos",
         "nombre_equipo": "Miami Heat",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "nombre": "Formula 1",
-        "desc": "--",
+        "desc": "Forumula 1 es la principal competición de automovilismo internacional y el campeonato de deportes de motor más popular y prestigioso del mundo. La entidad que la dirige es la Federación Internacional del Automóvil (FIA). Desde septiembre del 2016, tras la adquisición de Formula One Group, la empresa estadounidense Liberty Media es la responsable de gestionar y operar el campeonato.",
         "img": "https://www.motorsportmagazine.com/wp-content/uploads/2023/05/Max-Veerstappen-climbs-hill-at-Beau-Rivage-in-2023-Monaco-Grand-Prix-800x450.jpg",
         "categoria": "Motor",
         "nombre_equipo": "Re Bull Racing",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "nombre": "Cross-Country Rallying",
-        "desc": "--",
+        "desc": "Es una disciplina de automovilismo y motociclismo que se disputa campo a través. En cada jornada de una prueba, los participantes deben recorrer cientos de kilómetros de un pueblo a otro. A diferencia de un rally tradicional, por lo general no hay caminos delineados, sino que se corre sobre dunas y estepas",
         "img": "https://www.topgear.com/sites/default/files/2023/01/A230172_medium_0.jpg",
         "categoria": "Motor",
         "nombre_equipo": "Volkswagen ",
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "nombre": "Karting",
-        "desc": "--",
+        "desc": "Es una disciplina del automovilismo que se practica con karts sobre circuitos llamados kartódromos, que tienen entre 600 y 1.700 metros de longitud, y un ancho de entre 8 y 15 metros.",
         "img": "https://mcusercontent.com/0dcca18649fab10b094990a74/images/f247885e-1eed-4443-6bca-d4e55a750842.jpg",
         "categoria": "Motor",
         "nombre_equipo": "Fernando Alonso Karting Team",
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "nombre": "Catán",
-        "desc": "--",
+        "desc": "Es un juego de mesa de colocación de trabajadores multijugador inventado por Klaus Teuber. El objetivo del juego es construir pueblos, ciudades y caminos sobre un tablero que es distinto cada vez, mientras se van acumulando varios tipos de cartas.",
         "img": "https://terminalcitycon.ca/wp-content/uploads/2020/12/IMG_1953-e1530295066827-scaled.jpg",
         "categoria": "Mesa",
         "nombre_equipo": "Gustavo Uría",
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "nombre": "Poker",
-        "desc": "--",
+        "desc": "El póquer es un juego de apuestas en el que los jugadores, con todas o parte de sus cartas ocultas, hacen apuestas sobre una puja inicial, recayendo la suma total de las apuestas en el jugador o jugadores con la mejor combinación de cartas ",
         "img": "https://pnimg.net/w/articles/4/606/5f3b5589ab.jpeg",
         "categoria": "Poker",
         "nombre_equipo": "Daniel Negreanu",
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "nombre": "Ajedrez",
-        "desc": "--",
+        "desc": "El ajedrez es un juego de tablero entre dos contrincantes en el que cada uno dispone al inicio de dieciséis piezas móviles que se colocan sobre un tablero dividido en sesenta y cuatro casillas o escaques.​ En su versión de competición, está considerado como un deporte.",
         "img": "https://es.chessbase.com/Portals/all/thumbs/099/99614%20(4).jpeg",
         "categoria": "Mesa",
         "nombre_equipo": "Yan Nepómniashchi",
